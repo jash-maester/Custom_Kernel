@@ -11,7 +11,7 @@ Created a Custom Kernel as part of a hobby Project.
 - QEMU :-  Quick EMUlator to boot our kernel in virtual machine without rebooting the main system.
 
 # Compiling and Running in qemu
-Make Sure you are in the directory containing these file
+Make Sure you are in the directory containing these file and You are on a LINUX machine
 
 ```
 chmod +x install.sh
